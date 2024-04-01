@@ -16,7 +16,7 @@ body {
 .container {
     display: flex;
     flex-direction: row;
-	gap: 5px;
+	gap: 4px;
 	text-align: center;
     /* align-items: center; */
     margin-top: 20px;
